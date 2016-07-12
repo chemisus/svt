@@ -1,3 +1,4 @@
+```javascript
 var box = new BallotBox();
 var ballots = [
     ['lion', 'tiger', 'snake'],
@@ -102,3 +103,4 @@ donkey has 2 which passes
 sorting elephant and donkey
 threshold was met. tie so far.
 could not break the tie. possible candidates are elephant,donkey
+```
